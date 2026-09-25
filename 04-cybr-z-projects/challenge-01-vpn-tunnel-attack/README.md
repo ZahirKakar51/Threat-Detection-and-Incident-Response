@@ -106,7 +106,7 @@ full evidence-backed verdict.
 
 | File | Description |
 |------|-------------|
-| [Challenge_01_The_Tunnel_Is_Up.pdf](./Challenge__1_The_Tunnel_Is_Up_.pdf) | Original deliverable submitted to CYBR Z Survivor panel |
+| [Challenge_01_The_Tunnel_Is_Up.pdf](./Challenge 1 The Tunnel Is Up.pdf) | Original deliverable submitted to CYBR Z Survivor panel |
 
 ---
 
